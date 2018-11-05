@@ -1,0 +1,21 @@
+﻿
+*Non-defining clauses (có dấu phẩy, không dùng "that)
+-Miss Hong, who lives next door, is a doctor.
+-Trang, who comes from Korea, studies very hard.
+
+-I have lost my book, which my father gave me five years ago.
+-I went on holiday in Hanoi, which is the capital city of Vietnam.
+
+-Vietnam, where I was born, is beautiful.
+-Ho Chi Minh City Pedagogy University, where I study, is very beautiful.
+
+*Defining
+-The girl who you met yesterday is my sister.
+-The man who has won the competition is Phat.
+
+-The dictionary which you gave me is very good.
+-The book which is on the table is mine.
+
+-Da Lat is the place where I like to come
+-The hotel where I stayed was very beautiful.
+
